@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScriptTemplates/_ScriptTemplates/C#-NewBehaviour-ScriptTemplate.cs.txt">
+    <Files>
+      <File FileName="Assets/ScriptTemplates/_Scripts/CustomScriptTemplate.cs" Line="3" Column="10" />
+      <File FileName="Assets/ScriptTemplates/_ScriptTemplates/C#-NewBehaviour-ScriptTemplate.cs.txt" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

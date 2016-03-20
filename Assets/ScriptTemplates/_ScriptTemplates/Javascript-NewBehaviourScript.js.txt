@@ -1,0 +1,18 @@
+﻿//
+//  #SCRIPT_NAME##SCRIPT_EXT#
+//  #PROJECT_NAME#
+//
+//  Created by #DEVELOPER_NAME# on #CREATION_DATE#
+//  Copyright © #YEAR_DATE# #COPYRIGHT_HOST#. All rights reserved.
+//
+
+
+#pragma strict
+
+function Start () {
+
+}
+
+function Update () {
+
+}
